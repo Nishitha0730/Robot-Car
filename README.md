@@ -52,3 +52,5 @@ The design was created using:
 I create these supports for attach & fit , motor to chassis
 ![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Supports.png)
 
+This is simple wheels for robot car
+![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Supports.png)

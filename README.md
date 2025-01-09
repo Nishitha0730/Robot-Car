@@ -53,7 +53,7 @@ I create these supports for attach & fit , motor to chassis
 ![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Supports.png)
 
 This is simple wheels for robot car
-![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Supports.png)
+![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Wheel.png)
 
 This is robot arm beacuse in task 6 we have to box arrangement , to grab the box i created robot arm
 ![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Robot%20arm.png)

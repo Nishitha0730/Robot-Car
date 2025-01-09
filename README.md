@@ -59,3 +59,6 @@ This is robot arm beacuse in task 6 we have to box arrangement , to grab the box
 ![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Robot%20arm.png)
 
 This is L shape arm with ultrasonic sensor at the top to measure the height of the boxes
+![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Ultrasonic.png)
+
+

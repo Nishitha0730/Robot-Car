@@ -9,5 +9,7 @@ This is some images of my deisgn
 This is side views
 ![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Side%20View%201.png)
 
+![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Side%20View%202.png)
+
 according to that i laser cut robot main chasis 
 

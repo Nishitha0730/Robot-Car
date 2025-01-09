@@ -75,5 +75,3 @@ An L-shaped arm was designed with an ultrasonic sensor mounted at the top. This 
 
 ---
 
-Thank you for reviewing this project! Feel free to explore the repository for more insights into the design and share your feedback.
-

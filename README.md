@@ -47,18 +47,33 @@ The design was created using:
 
 ---
 
+## Additional Components Assembled to Chassis
 
-## My additional component that are assembled to chassis
-I create these supports for attach & fit , motor to chassis
-![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Supports.png)
+### Motor Supports
 
-This is simple wheels for robot car
-![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Wheel.png)
+These supports were designed to securely attach and fit the motor to the chassis.
 
-This is robot arm beacuse in task 6 we have to box arrangement , to grab the box i created robot arm
-![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Robot%20arm.png)
+![Motor Supports](https://github.com/Nishitha0730/Robot-Car/blob/main/Supports.png)
 
-This is L shape arm with ultrasonic sensor at the top to measure the height of the boxes
-![image alt](https://github.com/Nishitha0730/Robot-Car/blob/main/Ultrasonic.png)
+### Wheels
 
+Simple wheels were designed for the robot car to ensure smooth movement.
+
+![Wheels](https://github.com/Nishitha0730/Robot-Car/blob/main/Wheel.png)
+
+### Robot Arm
+
+A robot arm was created to perform the box arrangement task in Task 6. This arm allows the robot to grab and move boxes efficiently.
+
+![Robot Arm](https://github.com/Nishitha0730/Robot-Car/blob/main/Robot%20arm.png)
+
+### L-Shaped Arm with Ultrasonic Sensor
+
+An L-shaped arm was designed with an ultrasonic sensor mounted at the top. This sensor is used to measure the height of the boxes for precise placement.
+
+![L-Shaped Arm with Ultrasonic Sensor](https://github.com/Nishitha0730/Robot-Car/blob/main/Ultrasonic.png)
+
+---
+
+Thank you for reviewing this project! Feel free to explore the repository for more insights into the design and share your feedback.
 
